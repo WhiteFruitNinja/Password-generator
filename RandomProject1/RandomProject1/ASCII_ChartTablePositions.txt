@@ -1,0 +1,5 @@
+ASCII table charts:
+Numbers = 48-57 (at least 1)
+Uppercase letters = 65-90 (at least 1)
+Lowercase letters = 97-122 (at least 1)
+Special characters = 33-47, 58-64, 91-96, 123-126 (at least 1)
